@@ -13,17 +13,3 @@ Application uses LocalStorage, the localStorage object stores data with no expir
 ## Use of Project
 
 To understand the concept of the localstorage, how localstorage persist the data, even the tab is closed or user refersh the page.
-
-## ScreenShot
-
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/ss1.png?raw=true" />
-
-Click on the `Add New`, UI looks like:
-
-
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/ss2.png?raw=true" />
-
-Click on the `Open Blog`, UI looks like:
-
-
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/ss3.png?raw=true" />
